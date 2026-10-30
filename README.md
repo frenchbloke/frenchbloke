@@ -5,7 +5,8 @@ Browser-based audio experiments. Single HTML files — right-click, save as, use
 Landing page: https://frenchbloke.github.io
 
 ## Projects
-
+- **[HAMSTRAD](https://frenchbloke.github.io/hamstrad/)** —  This looks at an audio track really hard.  
+It then looks at another and makes the foolish decision to try and make the first one into the second one by chopping it all up and gluing it back together. 
 - **[glue](https://frenchbloke.github.io/glue/)** — After weeks of disassembling audio files with some rate of precision, what if you could load a MIDI file and use the sliced beats to play that MIDI file? Tested with Blue Monday (you can import other MIDI files). Amusing for a few minutes.
 - **[amstradt](https://frenchbloke.github.io/amstradt/amstradt.html)** — Imagine if Amstrad made the shittiest sounding sample / hold / looper. Imagine no more. It's hissy, it's meant to be.
 - **[temute](https://frenchbloke.github.io/temute/)** — If Temu made audio software. Takes the idea of locking beat 1, 5, 9, 13 etc of something 4/4, then takes beat 2 and smears it across 2, 3 & 4 etc. Ultimately pointless but it gave me a few ideas at least.
